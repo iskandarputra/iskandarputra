@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=00D9FF&center=true&vCenter=true&width=460&height=40&lines=Embedded+Software+Engineer;Robotics+Firmware+Architect;Real-Time+Control+Systems" alt="roles" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=FF8C00&center=true&vCenter=true&width=460&height=40&lines=Embedded+Software+Engineer;Robotics+Firmware+Architect;Real-Time+Control+Systems" alt="roles" />
 
 # Hey, I'm Iskandar 👋
 
 `⚡ I write real-time firmware that makes robots move — where every millisecond counts.`
 
-<a href="https://www.iskandarputra.com"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=flat-square&logo=googlechrome&logoColor=000000" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/iskandarputra95"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=00D9FF" alt="LinkedIn" /></a>
-<a href="mailto:iskandarputra1995@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=flat-square&logo=gmail&logoColor=00D9FF" alt="Email" /></a>
+<a href="https://www.iskandarputra.com"><img src="https://img.shields.io/badge/Portfolio-FF8C00?style=flat-square&logo=googlechrome&logoColor=1a1a1a" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/iskandarputra95"><img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=FF8C00" alt="LinkedIn" /></a>
+<a href="mailto:iskandarputra1995@gmail.com"><img src="https://img.shields.io/badge/Email-1a1a1a?style=flat-square&logo=gmail&logoColor=FF8C00" alt="Email" /></a>
 
 </div>
 
@@ -30,8 +30,8 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=iskandarputra&show_icons=true&hide_border=true&hide_title=true&card_width=320&bg_color=00000000&icon_color=00D9FF&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="stats" />
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=iskandarputra&hide_border=true&background=00000000&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=8b949e" alt="streak" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=iskandarputra&show_icons=true&hide_border=true&hide_title=true&card_width=320&bg_color=00000000&icon_color=FF8C00&text_color=d4b483&include_all_commits=true&count_private=true" alt="stats" />
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=iskandarputra&hide_border=true&background=00000000&ring=FF8C00&fire=FF6B5B&currStreakLabel=FF8C00&sideLabels=d4b483&dates=8b7355" alt="streak" />
 
 <br>
 
